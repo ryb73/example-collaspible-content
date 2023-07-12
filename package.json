@@ -1,0 +1,22 @@
+{
+  "name": "example-collaspible-content",
+  "version": "1.0.0",
+  "main": "lib/MyCollapsibleContent.js",
+  "types": "lib/MyCollapsibleContent.d.ts",
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@radix-ui/react-collapsible": "^1.0.3",
+    "@ryb73/super-duper-parakeet": "^11.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@emotion/styled": "^11.11.0",
+    "@types/react": "^18.2.14",
+    "typescript": "^5.1.6"
+  }
+}
