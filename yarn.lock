@@ -351,77 +351,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ryb73/super-duper-parakeet@npm:^11.1.0":
-  version: 11.1.0
-  resolution: "@ryb73/super-duper-parakeet@npm:11.1.0"
-  dependencies:
-    invalid-type: ^1.0.0
-  peerDependencies:
-    "@emotion/react": "*"
-    "@emotion/styled": ^11.3.0
-    "@radix-ui/react-collapsible": ^0.1.6 || ^1.0.2
-    axios: ^0.26.1
-    dayjs: "*"
-    fp-ts: ^2.10.4
-    immer: ^9.0.2
-    io-ts: ^2.2.16
-    io-ts-reporters: ^2.0.0
-    io-ts-types: ^0.5.16
-    jest: ^26.0.0 || ^27.0.0
-    lodash: ^4.17.21
-    monocle-ts: ^2.3.9
-    nanoid: ^3.0.0 || ^4.0.0
-    newtype-ts: ^0.3.4
-    next: ">=9 <=13"
-    react: ^16.8.0 || ^17.0.0 || ^18.0.0
-    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
-    react-query: ^3.13.12
-    typestyle: ^2.4.0
-  peerDependenciesMeta:
-    "@emotion/react":
-      optional: true
-    "@emotion/styled":
-      optional: true
-    "@radix-ui/react-collapsible":
-      optional: true
-    axios:
-      optional: true
-    dayjs:
-      optional: true
-    fp-ts:
-      optional: true
-    immer:
-      optional: true
-    io-ts:
-      optional: true
-    io-ts-reporters:
-      optional: true
-    io-ts-types:
-      optional: true
-    jest:
-      optional: true
-    lodash:
-      optional: true
-    monocle-ts:
-      optional: true
-    nanoid:
-      optional: true
-    newtype-ts:
-      optional: true
-    next:
-      optional: true
-    react:
-      optional: true
-    react-dom:
-      optional: true
-    react-query:
-      optional: true
-    typestyle:
-      optional: true
-  checksum: 91b1dcdb51ff77be01d629d10869453b7c2b58a3aa42f123b710df25840c8334ec76bcb252710b6dfb1cf45ea7adaa250253e9c3336a0dd45f007f7e279f614b
-  languageName: node
-  linkType: hard
-
 "@types/parse-json@npm:^4.0.0":
   version: 4.0.0
   resolution: "@types/parse-json@npm:4.0.0"
@@ -564,13 +493,14 @@ __metadata:
   dependencies:
     "@emotion/styled": ^11.11.0
     "@radix-ui/react-collapsible": ^1.0.2
-    "@ryb73/super-duper-parakeet": ^11.1.0
     "@types/react": ^18.2.14
     react: ^18.2.0
     react-dom: ^18.2.0
     typescript: ^5.1.6
   peerDependencies:
     "@radix-ui/react-collapsible": ^1.0.2
+    react: ^18.2.0
+    react-dom: ^18.2.0
   languageName: unknown
   linkType: soft
 
@@ -611,13 +541,6 @@ __metadata:
     parent-module: ^1.0.0
     resolve-from: ^4.0.0
   checksum: 2cacfad06e652b1edc50be650f7ec3be08c5e5a6f6d12d035c440a42a8cc028e60a5b99ca08a77ab4d6b1346da7d971915828f33cdab730d3d42f08242d09baa
-  languageName: node
-  linkType: hard
-
-"invalid-type@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "invalid-type@npm:1.0.0"
-  checksum: ddcd089f01caef7e81a121fbca56db283a5542ac09c8a02c2b8456309b84d3fa029d94c92be8e525fe54d045953f59c2ca667269d005f24814a1e15c0231e46d
   languageName: node
   linkType: hard
 
