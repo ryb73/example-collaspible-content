@@ -569,6 +569,8 @@ __metadata:
     react: ^18.2.0
     react-dom: ^18.2.0
     typescript: ^5.1.6
+  peerDependencies:
+    "@radix-ui/react-collapsible": ^1.0.2
   languageName: unknown
   linkType: soft
 

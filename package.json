@@ -18,5 +18,8 @@
     "@emotion/styled": "^11.11.0",
     "@types/react": "^18.2.14",
     "typescript": "^5.1.6"
+  },
+  "peerDependencies": {
+    "@radix-ui/react-collapsible": "^1.0.2"
   }
 }
