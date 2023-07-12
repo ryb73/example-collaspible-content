@@ -175,7 +175,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@radix-ui/react-collapsible@npm:^1.0.3":
+"@radix-ui/react-collapsible@npm:^1.0.2":
   version: 1.0.3
   resolution: "@radix-ui/react-collapsible@npm:1.0.3"
   dependencies:
@@ -563,7 +563,7 @@ __metadata:
   resolution: "example-collaspible-content@workspace:."
   dependencies:
     "@emotion/styled": ^11.11.0
-    "@radix-ui/react-collapsible": ^1.0.3
+    "@radix-ui/react-collapsible": ^1.0.2
     "@ryb73/super-duper-parakeet": ^11.1.0
     "@types/react": ^18.2.14
     react: ^18.2.0
